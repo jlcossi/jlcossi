@@ -10,7 +10,7 @@ The tools made teams faster; delivery didn't move, because nobody redesigned the
 
 ### Selected results
 
-| | |
+| Result | Context |
 |---|---|
 | **−50%** deployment lead time | Digital & AI teams, services group |
 | **−91%** defects | European bank, 30+ developers |
