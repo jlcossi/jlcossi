@@ -22,5 +22,3 @@ The tools made teams faster; delivery didn't move, because nobody redesigned the
 - [How to redesign a broken delivery flow](https://leaddev.com/technical-direction/how-to-redesign-a-broken-delivery-flow) — LeadDev, August 2026
 - [The Delivery Playbook](https://newsletter.leantechpro.com) — weekly newsletter
 - [Book a 30-min call](https://cal.com/jlcossi/discovery-call) · [LinkedIn](https://linkedin.com/in/jlcossi) · [X](https://x.com/jlcossi)
-
-<sub>The repositories below are archived Udacity Data Science portfolio projects, kept public as a record.</sub>
