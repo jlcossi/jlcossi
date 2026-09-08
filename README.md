@@ -6,7 +6,7 @@
 
 ### The gap I work on
 
-The tools made teams faster; delivery didn't move, because nobody redesigned the system around the new speed. I know both sides of that gap because I run my own operation on agentic AI daily. The diagnostic I sell is being built into an instrument: your data in, where the work waits out.
+The tools made teams faster; delivery didn't move, because nobody redesigned the system around the new speed. I know both sides of that gap because I run my own operation on agentic AI daily.
 
 ### Selected results
 
