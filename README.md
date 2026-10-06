@@ -22,6 +22,6 @@ The tools made teams faster; delivery didn't move, because nobody redesigned the
 
 - [jlcossi.com](https://jlcossi.com) — results, method, how I work
 - [How to redesign a broken delivery flow](https://leaddev.com/technical-direction/how-to-redesign-a-broken-delivery-flow) — LeadDev, August 2026
-- [IA : vos développeurs vont plus vite, le client attend toujours autant](https://www.journaldunet.com/developpeur/1551401-ia-vos-developpeurs-vont-plus-vite-le-client-attend-toujours-autant/) — JDN, June 2026
+- [L'IA a accéléré le code, mais pas le delivery](https://www.journaldunet.com/intelligence-artificielle/1551401-ia-vos-developpeurs-vont-plus-vite-le-client-attend-toujours-autant/) — JDN, June 2026
 - [The Delivery Playbook](https://newsletter.leantechpro.com) — weekly newsletter
 - [30-min call](https://cal.com/jlcossi/discovery-call) · [LinkedIn](https://linkedin.com/in/jlcossi) · [X](https://x.com/jlcossi)
